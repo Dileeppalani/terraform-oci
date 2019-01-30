@@ -1,5 +1,5 @@
 # terraform-oci #
-Build Oracle OCI environments with Terraform
+Build Oracle OCI environments with Terraformm
 
 This repository contains simple and easy-to-use examples of configurations on Oracle Cloud that can be spun up using Terraform.
 
